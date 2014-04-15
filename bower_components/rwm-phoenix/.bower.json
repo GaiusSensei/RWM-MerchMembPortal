@@ -1,0 +1,32 @@
+{
+  "name": "RWM-Phoenix",
+  "description": "Resorts World Manila Gaming API",
+  "documentation": "https://phoenix.rwmanila.com",
+  "version": "1.0.4",
+  "keywords": [
+    "rwmanila",
+    "gaming",
+    "casino",
+    "api"
+  ],
+  "main": [
+    "dist/phoenix.js"
+  ],
+  "ignore": [
+    ".*"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },
+  "homepage": "https://github.com/erikcapistrano/RWM.Phoenix",
+  "_release": "1.0.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.4",
+    "commit": "f1c4b6f4f4c5cf78ef13bec3459fed770a7cb940"
+  },
+  "_source": "git://github.com/erikcapistrano/RWM.Phoenix.git",
+  "_target": "~1.0.4",
+  "_originalSource": "rwm-phoenix",
+  "_direct": true
+}
